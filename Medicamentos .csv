@@ -1,13 +1,13 @@
-﻿nombre_medicamento;total_cantidad_medicamento;filledQuantity;fecha_desabastecimiento;pronostico_desabastecimiento
-Aspirina;176;;;
-;40;23%;7/05/2025;15 días
-;40;23%;7/05/2025;15 días
-;40;23%;7/05/2025;15 días
-;30;17%;7/05/2025;15 días
-;26;15%;7/05/2025;15 días
-Ranitidina;55;;;
-;15;27%;7/05/2025;15 días
-;10;18%;7/05/2025;15 días
-;10;18%;7/05/2025;15 días
-;10;18%;7/05/2025;15 días
-;10;18%;7/05/2025;15 días
+﻿nombre_medicamento;total_cantidad_medicamento;filledQuantity;status;fecha_desabastecimiento;pronostico_desabastecimiento
+Aspirina;176;;;;
+;91;52%;Óptimo;7/05/2025;15 días
+;40;23%;Bajo;7/05/2025;15 días
+;30;17%;Bajo;7/05/2025;15 días
+;15;9%;Crítico;7/05/2025;15 días
+;0;0%;Agotado;7/05/2025;15 días
+Ranitidina;300;;;;
+;180;60%;Óptimo;7/05/2025;15 días
+;80;27%;Bajo;7/05/2025;15 días
+;30;10%;Bajo;7/05/2025;15 días
+;10;3%;Crítico;7/05/2025;15 días
+;0;0%;Agotado;7/05/2025;15 días
